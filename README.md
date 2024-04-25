@@ -1,13 +1,13 @@
 # ShopSmart Project Documentation
 
 ## Overview
-The ShopSmart Project aims to optimize the ShopSmart Inc. e-commerce platform by analyzing customer behavior and preferences. Through data analysis, this project seeks to improve website usability, enhance user experience, and optimize product offerings and marketing strategies to increase customer satisfaction, retention, and revenue.
+The ShopSmart Project aims to optimize the ShopSmart Inc. e-commerce platform by analyzing customer behaviour and preferences. This project uses data analysis to improve website usability, enhance user experience, and optimize product offerings and marketing strategies to increase customer satisfaction, retention, and revenue.
 
 ## Data Source
-The data for this project was sourced from ShopSmart Inc.'s website and includes various attributes such as customer IDs, device IDs, transaction details, product information, and timestamps of customer interactions.
+The data for this project was sourced from ShopSmart Inc.'s website and includes various attributes such as customer IDs, device IDs, transaction details, product information, and timestamps of customer interactions. You can view the data [here!](https://github.com/iamcbn/ShopSmart/tree/main/ShopSmart%20Data)
 
 ## Notebook
-- **ShopSmart_Project.ipynb**: This Jupyter Notebook contains the code and analysis for the project.
+- **[ShopSmart_Project.ipynb](https://github.com/iamcbn/ShopSmart/blob/main/ShopSmart_Project.ipynb)**: This Jupyter Notebook contains the code and analysis for the project.
 
 ## Key Insights
 - ShopSmart Inc. operates with an average daily traffic of 48,193 visits.
@@ -20,7 +20,7 @@ The data for this project was sourced from ShopSmart Inc.'s website and includes
 ## Recommendations
 - Enhance website features and usability to improve customer engagement and satisfaction.
 - Focus on promoting premium products like Adidas Ultraboost to attract high-value customers.
-- Optimize marketing strategies based on customer preferences, geographic location, and purchasing behavior.
+- Optimize marketing strategies based on customer preferences, geographic location, and purchasing behaviour.
 
 ## Dependencies
 - Python
@@ -29,7 +29,7 @@ The data for this project was sourced from ShopSmart Inc.'s website and includes
 - Seaborn
 - Geopandas
 - ydata_profiling
-- Datetime
+- DateTime
 - Plotly
 
 ## Usage
